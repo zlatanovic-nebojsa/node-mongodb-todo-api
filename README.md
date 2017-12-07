@@ -2,7 +2,7 @@
 <p>Use postman to try API</p>
 <br><br>
 URL: https://fathomless-headland-87461.herokuapp.com
-<br>
+<br><br>
 <p>Users:<p>
   <p>Sign in: POST /users</p>
   <p>Log in: POST /users/login</p>
